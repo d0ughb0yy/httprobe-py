@@ -1,2 +1,5 @@
 # python-probe
-Python script to check and print response status code from probed url's
+## HTTP Probe
+It takes a list of gathered domains,
+sends GET requests and filters the output with
+common status codes
